@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "14423974810",
+    "firebase_url": "https://auth-45349.firebaseio.com",
+    "project_id": "auth-45349",
+    "storage_bucket": "auth-45349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14423974810:android:a0fb63b28bd1ccd2",
+        "android_client_info": {
+          "package_name": "com.example.divyanshu.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14423974810-1pqnbsr9pk2qijspuf66fcnfsv0jf9tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divyanshu.auth",
+            "certificate_hash": "15835db33b7108ea7bbf00f2d0df10376d45b588"
+          }
+        },
+        {
+          "client_id": "14423974810-3pf9nnc8oosk55buucfbdpdkiqhu02tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7u94MclfueiluaJpNyjOBW-kjLMxiqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14423974810-3pf9nnc8oosk55buucfbdpdkiqhu02tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
